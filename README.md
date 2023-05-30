@@ -1,1 +1,3 @@
-# netflix
+![image](https://github.com/pedrohlopesnvp/netflix/assets/85568654/9e08350b-00d9-42eb-92eb-1cea2c3581a9)
+
+Uma dos meus primeiros projetos utilizando html, css e jshttps://pedrohlopesnvp.github.io/netflix/
